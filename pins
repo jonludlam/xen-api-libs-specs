@@ -12,5 +12,8 @@
   },
   "SPECS/xenopsd.spec": {
     "0": "/repos/xenopsd#HEAD"
+  },
+  "SPECS/ocaml-xen-api-libs-transitional.spec": {
+    "0": "/repos/xen-api-libs-transitional#HEAD"
   }
 }
